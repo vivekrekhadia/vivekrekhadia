@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vivekrekhadia
-- 👀 I’m interested in Life
+- 👀 I’m a Frontend web developer. 
 - 🌱 I’m currently learning Next JS
 - 💞️ I’m looking to collaborate on any react project 
 - 📫 How to reach me: @Vivekrekhadia on twitter
